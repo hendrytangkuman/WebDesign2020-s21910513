@@ -1,0 +1,16 @@
+body{
+    font-family: Comic Sans MS;
+    width: 50%;
+    margin: auto;
+}
+
+p.nunito{
+    font-family: 'Nunito', sans-serif;
+    width: 50%;
+    margin: auto;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
