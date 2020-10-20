@@ -1,0 +1,16 @@
+p.px{
+    font-size: 16px;
+}
+
+p.em{
+    font-size: 1.5em;
+}
+
+p.rem{
+    font-size: 1rem;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+}
